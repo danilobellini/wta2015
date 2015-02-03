@@ -1,10 +1,12 @@
 WTA2015 - Adaptatividade em Python
-----------------------------------
+==================================
 
-Repositório com o código utilizado no tutorial "*Adaptatividade em Python*"
+Repositório com o código utilizado no tutorial "Adaptatividade em Python"
 ministrado no Workshop de Tecnologia Adaptativa de 2015 (WTA2015) na Escola
 Politécnica da Universidade de São Paulo (Poli-USP) nos dias 2015-01-29 e
-2015-01-30.
+2015-01-30. Os slides da apresentação podem ser vistos em:
+
+http://pt.slideshare.net/djsbellini/2015012930-wta2015-adaptatividade-em-python-tutorial
 
 A ideia de adaptatividade do tutorial remete a uma parte do dinamismo inerente
 ao Python, enfatizando as possibilidades de utilização dos recursos da
